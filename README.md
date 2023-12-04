@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gxarena
 - 👀 I’m interested in playing games and coding!
-- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: You can reach me through instagram @Gxarena
 
